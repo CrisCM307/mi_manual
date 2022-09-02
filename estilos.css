@@ -68,3 +68,11 @@ tbody tr{
 tbody tr:hover {
     background: rgba(19, 30, 41, 0.4);
 }
+footer{
+    background-color: rgb(31, 30, 30);
+    padding: 5em 0;
+    position: absolute;
+    opacity: 0.8;
+    color: white;
+    width: 100%;
+}
