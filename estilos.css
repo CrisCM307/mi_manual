@@ -11,7 +11,10 @@ h1{
     font-family: 'Times New Roman', Times, serif;
 }
 h2{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman';
+    color: rgb(255, 255, 255);
+    background: linear-gradient(rgb(60, 65, 69),#292c2e);
+    opacity: 0.87;
 }
 p{
     color: black;
